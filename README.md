@@ -30,7 +30,7 @@ print(result)
 ~~~
 ## Output:
 
-![alt text](<../Exp 1-MA.png>)
+![alt text](<Exp 1-MA.png>)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
